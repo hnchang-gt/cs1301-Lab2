@@ -1,0 +1,63 @@
+{
+    "chart_title": "Best Matcha and Tea Cafes in Atlanta Area",
+    "data_points": [
+        {
+            "label": "Tea Drip",
+            "price": 9.45,
+            "taste_rating": 10,
+            "usual_order": "Banana Pudding Matcha Latte",
+            "latitude": 33.959408,
+            "longitude": -84.135842
+
+        },
+        {
+            "label": "Molly Tea",
+            "price": 9.33,
+            "taste_rating": 8.9,
+            "usual_order": "Pistachio Jasmine Coconut",
+            "latitude": 33.907859,
+            "longitude": -84.288081
+        },
+        {
+            "label": "Kafeiin",
+            "price": 8.59,
+            "taste_rating": 9,
+            "usual_order": "Sesame Cloud Matcha",
+            "latitude": 33.952179,
+            "longitude": -84.140813
+        },
+	{
+            "label": "Glaze Tea",
+            "price": 11.20,
+            "taste_rating": 7.8,
+            "usual_order": "Coconut Mango Pomelo with Milk Mochi",
+            "latitude": 33.780633,
+            "longitude": -84.389244
+        },
+	{
+            "label": "Starbucks",
+            "price": 7.35,
+            "taste_rating": 7.8,
+            "usual_order": "Iced Matcha Latte with Pumpkin Coldfoam",
+            "latitude": 33.774660,
+            "longitude": -84.389040
+        },
+	{
+            "label": "Daydreamer Cafe",
+            "price": 8.91,
+            "taste_rating": 7,
+            "usual_order": "Seasonal Specialty Drink",
+            "latitude": 33.774829,
+            "longitude": -84.385500
+        },
+	{
+            "label": "On10",
+            "price": 9.18,
+            "taste_rating": 7,
+            "usual_order": "Iced Matcha Latte with Miso Brown Sugar and Peanut Coldfoam",
+            "latitude": 33.782151,
+            "longitude": -84.381444
+        }
+
+    ]
+}
