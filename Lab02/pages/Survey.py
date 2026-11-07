@@ -25,7 +25,7 @@ st.write("Tell me about your café preferences and drink budget!")
 with st.form("survey_form"):
     # Create text input widgets for the user to enter data.
     # The first argument is the label that appears above the input box.
-    favorite_cafe = st.text_input("What'syour favorite café?")
+    favorite_cafe = st.text_input("What's your favorite café?")
     milk_preference = st.selectbox(
         "What milk do you prefer?",
         ["Whole", "Oat", "Almond", "Soy", "Coconut", "No milk", "Other"]
